@@ -1,8 +1,12 @@
-# Challenge - Amigo Secreto 🎁
+<h1 align="center">
+  <br>Challenge - Amigo Secreto 🎁
+</h1>
 
-Este é um simples jogo de Amigo Secreto desenvolvido em JavaScript, HTML e CSS. O objetivo do jogo é permitir que os usuários adicionem nomes de amigos a uma lista e, em seguida, sorteiem aleatoriamente um nome da lista para determinar quem será o amigo secreto. 
+Este é um simples jogo de Amigo Secreto desenvolvido em JavaScript, HTML e CSS. O objetivo do jogo é permitir que os usuários adicionem nomes de amigos a uma lista e, em seguida, sorteiem aleatoriamente um nome da lista para determinar quem será o amigo secreto.
 
-![Projeto Site GTA V](./assets/preview.png)
+![Projeto amigo secreto](./assets/preview.png)
+
+<h4 align="center"><a href="desafio-amigo-secreto-dgff.vercel.app">Clique para visitar o projeto</a></h4>
 
 ## Funcionalidades
 
