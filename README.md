@@ -4,8 +4,6 @@ Este é um simples jogo de Amigo Secreto desenvolvido em JavaScript, HTML e CSS.
 
 ![Projeto Site GTA V](./assets/preview.png)
 
-<div align="center">
-
 ## Funcionalidades
 
 - **Adicionar nomes**: Os usuários podem escrever o nome de um amigo em um campo de texto e adicioná-lo a uma lista visível ao clicar no botão "Adicionar" ou pressionando a tecla "Enter".
