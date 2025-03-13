@@ -6,7 +6,7 @@ Este é um simples jogo de Amigo Secreto desenvolvido em JavaScript, HTML e CSS.
 
 ![Projeto amigo secreto](./assets/preview.png)
 
-<h4 align="center"><a href="desafio-amigo-secreto-dgff.vercel.app">Clique para visitar o projeto</a></h4>
+<h4 align="center"><a href="https://desafio-amigo-secreto-dgff.vercel.app/">Clique para visitar o projeto</a></h4>
 
 ## Funcionalidades
 
